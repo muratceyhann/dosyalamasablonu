@@ -1,0 +1,64 @@
+# DOSYALAMA ŞABLONU
+
+- Üretici
+    - Üretici_Model
+        - Üretici_Model_Versiyon
+            - Üretici_Model_Versiyon_Fotoğraflar
+                - Üretici_Model_Versiyon_Fotoğraflar_ÖnYüz_Rev0
+                - Üretici_Model_Versiyon_Fotoğraflar_ArkaYüz_Rev0
+                    
+                    
+            - Üretici_Model_Versiyon_AktifElemanlar
+                - Üretici_Model_Versiyon_ AktifElemanlar _IC
+                    - Üretici_Model_Versiyon_ AktifElemanlar_IC_Refİsim
+                        - Üretici_Model_Versiyon_Refİsim_Datasheet
+                        - Üretici_Model_Versiyon_Refİsim_PaketTipi
+                - Üretici_Model_Versiyon_ AktifElemanlar _MikroDenetleyici
+                    - Üretici_Model_Versiyon_ AktifElemanlar *MikroDenetleyici*_Refİsim
+                        - Üretici_Model_Versiyon_AktifElemanlar_Mikrodenetleyici_Refİsim_Datasheet
+                        - Üretici_Model_Versiyon_AktifElemanlar_Mikrodenetleyici_Refİsim_PaketTipi
+                - Üretici_Model_Versiyon_ AktifElemanlar _MOSFET
+                    - Üretici_Model_Versiyon_AktifElemanlar_MOSFET_Refİsim
+                        - Üretici_Model_Versiyon_AktifElemanlar_MOSFET_Refİsim_Datasheet
+                        - Üretici_Model_Versiyon_AktifElemanlar_MOSFET_Refİsim_PaketTipi
+                - Üretici_Model_Versiyon_AktifElemanlar_Transistör
+                    - Üretici_Model_Versiyon_AktifElemanlar_Transistör_Refİsim
+                        - Üretici_Model_Versiyon_AktifElemanlar_Transistör_Refİsim_Datasheet
+                        - Üretici_Model_Versiyon_AktifElemanlar_Transistör_Refİsim_PaketTipi
+            - Üretici_Model_Version_PasifElemanlar
+                - Üretici_Model_Versiyon_ PasifElemanlar _Direnç
+                    - Üretici_Model_Versiyon_PasifElemanlar_Direnç_Refİsim
+                        - Üretici_Model_Versiyon_PasifElemanlar_Direnç_Refİsim_Datasheet
+                        - Üretici_Model_Versiyon_PasifElemanlar_Direnç_Refİsim_PaketTipi
+                - Üretici_Model_Versiyon_ PasifElemanlar _Kapasitör
+                    - Üretici_Model_Versiyon_ PasifElemanlar_Kapasitör_Refisim
+                        - Üretici_Model_Versiyon_PasifElemanlar_Kapasitör_Refİsim_Datasheet
+                        - Üretici_Model_Versiyon_PasifElemanlar_Kapasitör_Refİsim_PaketTipi
+                - Üretici_Model_Versiyon_ PasifElemanlar _Bobin
+                    - Üretici_Model_Versiyon_PasifElemanlar_Bobin_Refİsim
+                        - Üretici_Model_Versiyon_PasifElemanlar_Bobin_Refİsim_Datasheet
+                        - Üretici_Model_Versiyon_PasifElemanlar_Bobin _Refİsim_PaketTipi
+                - Üretici_Model_Versiyon_ PasifElemanlar _Diyot
+                    - Üretici_Model_Versiyon_PasifElemanlar_Diyot_Refİsim
+                        - Üretici_Model_Versiyon_PasifElemanlar_Diyot_Refİsim_Datasheet
+                        - Üretici_Model_Versiyon_PasifElemanlar_Diyot_Refİsim_PaketTipi
+            - Üretici_Model_Versiyon_PCBİzTakibi
+                - Üretici_Model_Versiyon_PCBİzTakibi_ÜstKatman
+                - Üretici_Model_Versiyon_PCBİzTakibi_AltKatman
+                - Üretici_Model_Versiyon_PCBİzTakibi_AraKatman1
+                - Üretici_Model_Versiyon_PCBİzTakibi_AraKatman2
+                - Üretici_Model_Versiyon_PCBİzTakibi_Şematik
+                - Üretici_Model_Versiyon_PCBİzTakibi_Layout
+                - Üretici_Model_Versiyon_PCBİzTakibi_Firmware
+            - Üretici_Model_Versiyon_PrototipÜretimi
+                - Üretici_Model_Versiyon_PrototipÜretimi_Gerber
+                - Üretici_Model_Versiyon_PrototipÜretimi_BOM
+                - Üretici_Model_Versiyon_PrototipÜretimi_Dizgi
+                - Üretici_Model_Versiyon_PrototipÜretimi_Test
+            - Üretici_Model_Versiyon_Dökümantasyon
+                - Üretici_Model_Versiyon_Dökümantasyon_DevreŞeması
+                - Üretici_Model_Versiyon_Dökümantasyon_PCBDosyaları
+                - Üretici_Model_Versiyon_Dökümantasyon_BOM
+                - Üretici_Model_Versiyon_Dökümantasyon_Yazılım
+                - Üretici_Model_Versiyon_Dökümantasyon_KomponentTedarikAnalizi
+                - Üretici_Model_Versiyon_Dökümantasyon_MaliyetOptimizasyonu
